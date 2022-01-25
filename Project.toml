@@ -1,6 +1,6 @@
 name = "Qt5Declarative_jll"
 uuid = "c6373c32-5b88-5913-90f5-31d7686b42da"
-version = "5.15.2+0"
+version = "5.15.2+1"
 
 [deps]
 Qt5Base_jll = "ea2cea3b-5b76-57ae-a6ef-0a8af62496e1"
